@@ -5,6 +5,8 @@ As an information professional, I aim to bring the practices and values of libra
 
 On this page, you will find a portfolio of some of the projects I completed during my pursuit of my MS in Library and Information Science at the Pratt School of Information. My emphasis is on remediating issues of representation and access in digital collections and, in particular, supporting the work of librarians, archivists, and community members interested in changing their institutional or collection level practices. My research also looks at institutional practices and collaborations, such as mutual aid and environmental sustainability. I employ methods informed by but not unique to library science such as metadata management and analysis, conservation, archival methods, user research, programming, and visualization. 
 
+![Book box scan](/portfolio/assets/img/book-cover.png 'Cover page')
+
 CRITLOD: A Strategic Framework for Linked Open Data
 ------------
 By Jack O'Malley, Gabriel Palisano, and Claire Mooney
