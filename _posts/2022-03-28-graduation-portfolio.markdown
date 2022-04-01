@@ -63,4 +63,4 @@ Rationale: For this project, I formulated a thesis that reflected a goal of bett
 Handmade Archival Book Box
 ------------
 
-![Box making](assets/img/box.png 'Image from the box making process')
+![Box making](/portfolio/assets/img/box.png 'Image from the box making process')
