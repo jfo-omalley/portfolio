@@ -9,17 +9,17 @@ On this page, you will find a portfolio of some of the projects I completed duri
 ------------
 By Jack O'Malley, Gabriel Palisano, and Claire Mooney
 
-![Embedded image of SAA Research Open House poster.](https://files.archivists.org/researchforum/2021/Posters/OMalley_p.pdf)!
+[Embedded image of SAA Research Open House poster.](https://files.archivists.org/researchforum/2021/Posters/OMalley_p.pdf)
 
 Remaking the Museum: A Network Visualization of Siloed Artists Sharing Space
 ------------
 
-![Link to the interactive website](https://jfo-omalley.github.io/artists-viz/network/)!
+[Link to the interactive website](https://jfo-omalley.github.io/artists-viz/network/)
 
 Where the Money Went
 ------------
 
-![Link to the published article](http://www.laacollective.org/work/where-the-money-went)!
+[Link to the published article](http://www.laacollective.org/work/where-the-money-went)
 
 
 Handmade Archival Book Box
