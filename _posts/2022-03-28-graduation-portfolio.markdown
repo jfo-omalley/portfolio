@@ -60,7 +60,16 @@ Learning objective: Research
 Rationale: For this project, I formulated a thesis that reflected a goal of better understanding the needs and experiences of information workers and service providers during the pandemic, which I argue is an important research area as the field recovers from massive job instability during 2020 and 2021. I used a variety of research methods including interviews, primary source research, secondary textual research, and data analysis to evaluate my thesis and draw meaningful conclusions. This research is also an original contribution to the field. I presented this research at the Visual Resource Association annual conference and published a non-academic version in the archivists magazine _Acid Free_. 
 
 
-Handmade Archival Book Box
+Child Privacy and Online Safety for Caretakers of Young Children LibGuide
 ------------
 
-![Box making](/portfolio/assets/img/box.png 'Image from the box making process')
+[Link to LibGuide](https://prattlis.libguides.com/childonlineprivacy/home)
+
+Description: This LibGuide provides topical resources for the caregivers or minors (children under thirteen) who are below the age of consent. The resources contain information, recommendations, and discussion topics on educational technology and privacy, as well as shorter sections on law, developmental psychology, and international children rights. 
+
+Method: This LibGuide provides research around child privacy and online safety from different domains. It also includes links and annotations of resources for users to conduct their own research. The user group for this project is imagined as caregivers coming to the topic with a set of already established ideas, seeking information on their options to manage unfamiliar changes to technologies and digital rights.
+
+Role: I am the primary author of the sections titled "Research Perspectives," "Informative Blogs," "PBS - Future of Digital Learning," and "General Resources." In general, I adopted a stronger perspective on protecting children's digital agency. 
+
+Rationale: The LibGuide is an extension of the library space, where information access can lead to conflict between caregivers and children. As long as the ACRL frame leads us to design for an individual "novice" user, it will obscure "the fact that any real change would actually require collective understanding and action" (Beilin, 2015). We can describe this activity in the same way the ALA describes a librarian's obligation not to "restrict or monitor" minors - as an assumption that minimal restrictions on information align with the maximal protection of rights. Rather than solely apply this assumption to children's rights, we can imagine it as a design paradigm for collective action. Radical information access requires that we call out socially motivated information production, like the kind found in our LibGuide, and replace individualized instruction with reciprocal information exchange. I would direct "resistance...against the very structure of information and knowledge" at the scope of the guide. A reciprocal scope would explicitly describe the network of actors implicated in the protection of caregiver's rights and design for their simultaneous information needs. 
+
