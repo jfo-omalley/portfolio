@@ -61,3 +61,4 @@ Rationale: For this project, I formulated a thesis that reflected a goal of bett
 Handmade Archival Book Box
 ------------
 
+![An image of me working on my box](https://github.com/jfo-omalley/portfolio/blob/master/box.png)
