@@ -9,7 +9,7 @@ CRITLOD: A Strategic Framework for Linked Open Data
 ------------
 By Jack O'Malley, Gabriel Palisano, and Claire Mooney
 
-![Embedded image of SAA Research Open House poster.](https://files.archivists.org/researchforum/2021/Posters/OMalley_p.pdf)
+[Link to the SAA Research Open House poster.](https://files.archivists.org/researchforum/2021/Posters/OMalley_p.pdf)
 
 Description: This group project is styled as a grant proposal that outlines how the principles of linked open data might remediate issues of diversity and representation in digital collections. In particular, the proposal focuses on the representation of African American female visual artists on Wikidata as a case study. I presented a summary of this proposal as a poster at the 2021 SAA Research Forum Open House.
 
