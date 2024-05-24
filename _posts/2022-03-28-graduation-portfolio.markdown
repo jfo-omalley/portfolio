@@ -7,6 +7,23 @@ On this page, you will find a portfolio of some of the projects I completed duri
 
 ![Book box scan](/portfolio/assets/img/book-cover.png 'Cover page')
 
+Remaking the Museum: A Network Visualization of Siloed Artists Sharing Space on Wikidata
+------------
+
+[Link to the interactive website](https://jfo-omalley.github.io/artists-viz/network/)
+
+Course: INFO-658 Information Visualization
+
+Description: This project has two parts, a web-based visualization and a written report. The visualization is a network visualization that serves as an instructional tool. The network visualizes two digital collection "communities," where the connections are based on their shared Wikidata properties. Users are invited to treat the network like a "playlist" that invites surprising or unconventional associations. The report analyzes, evaluates, and critiques this visualization.
+
+Methods: I conducted user interviews with librarians and students. I constructed an enriched dataset using the Wikidata API and formatted it as network data using the Python library pandas. I then visualized the data from a CSV in the software program Gephi. After I exported the network graph to GitHub pages, I further enriched the data with images. My report included further analysis in Gephi and an instructional demo.
+
+Role: I was the sole author of this work.
+
+Learning objective: User centered
+
+Rationale: This project is aimed at academic communities, with a particular emphasis on art historical or research methods instruction for undergraduates. The visualization and instructional demo take into account, based on user interviews, the diverse, intersecting, and sometimes competing information needs of students, faculty, and librarians in an instructional setting, by actively challenging normative approaches to information dissemination. It also multi-modal (appropriate for both open ended exploration and directed instruction), open source, and freely available on the web. This project is intended as a provocation that raises critical questions about the role of information in society and the reproduction of information in libraries. It is meant to challenge, for instance, the idea that we can or should represent collections as data, rather than as unique or as ethical representations of personhood. At the same time, the project tries to meaningfully intervene in the areas of teaching, digital representation, and digital preservation by thinking critically about the idea of the "user" and user feedback. Finally, the project continues to give me the opportunity to think critically about how I digest, represent, and talk about information, develop my own design paradigms, and relate to communities.
+
 CRITLOD: A Strategic Framework for Linked Open Data
 ------------
 By Jack O'Malley, Gabriel Palisano, and Claire Mooney
@@ -28,25 +45,6 @@ Rationale: This project served as an opportunity to apply core theories and conc
 Learning objective 2: Technology
 
 Rationale: For this project, I used several programming languages and language libraries, including SPARQL, the Wikidata API, Juypter notebooks, and the data science Python library pandas to retrieve, analyze, format, visualize, and store digital collections data. I also learned to use web-based tools such as OpenRefine, Wikidata, and Wikibase that are becoming cultural heritage standards. Technical problem-shooting techniques I used included reviewing open source documentation, watching tutorials, iterative design, and error checking. 
-
-
-Remaking the Museum: A Network Visualization of Siloed Artists Sharing Space
-------------
-
-[Link to the interactive website](https://jfo-omalley.github.io/artists-viz/network/)
-
-Course: INFO-658 Information Visualization
-
-Description: This project has two parts, a web-based visualization and a written report. The visualization is a network visualization that serves as an instructional tool. The network visualizes two digital collection "communities," where the connections are based on their shared Wikidata properties. Users are invited to treat the network like a "playlist" that invites surprising or unconventional associations. The report analyzes, evaluates, and critiques this visualization.
-
-Methods: I conducted user interviews with librarians and students. I constructed an enriched dataset using the Wikidata API and formatted it as network data using the Python library pandas. I then visualized the data from a CSV in the software program Gephi. After I exported the network graph to GitHub pages, I further enriched the data with images. My report included further analysis in Gephi and an instructional demo.
-
-Role: I was the sole author of this work.
-
-Learning objective: User centered
-
-Rationale: This project is aimed at academic communities, with a particular emphasis on art historical or research methods instruction for undergraduates. The visualization and instructional demo take into account, based on user interviews, the diverse, intersecting, and sometimes competing information needs of students, faculty, and librarians in an instructional setting, by actively challenging normative approaches to information dissemination. It also multi-modal (appropriate for both open ended exploration and directed instruction), open source, and freely available on the web. This project is intended as a provocation that raises critical questions about the role of information in society and the reproduction of information in libraries. It is meant to challenge, for instance, the idea that we can or should represent collections as data, rather than as unique or as ethical representations of personhood. At the same time, the project tries to meaningfully intervene in the areas of teaching, digital representation, and digital preservation by thinking critically about the idea of the "user" and user feedback. Finally, the project continues to give me the opportunity to think critically about how I digest, represent, and talk about information, develop my own design paradigms, and relate to communities.
-
 
 Where the Money Went
 ------------
